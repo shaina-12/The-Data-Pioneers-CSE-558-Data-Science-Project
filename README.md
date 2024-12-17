@@ -1,5 +1,12 @@
 # The-Data-Pionners-CSE-558-Data-Science-Project
 
+## Made By:
+
+### Lakshay Trehan (2022267)
+### Argharupa Adhikary (MT23020)
+### Arunoday Ghorai (MT23023)
+### Shaina Mehta (MT23139)
+
 ## References and Bibliography:
 
 [1] https://dataheroes.ai/introduction-to-coresets/
