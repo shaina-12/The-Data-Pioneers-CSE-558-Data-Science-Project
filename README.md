@@ -2,10 +2,10 @@
 
 ## Made By:
 
-### Lakshay Trehan (2022267)
-### Argharupa Adhikary (MT23020)
-### Arunoday Ghorai (MT23023)
-### Shaina Mehta (MT23139)
+### *Lakshay Trehan (2022267)*
+### *Argharupa Adhikary (MT23020)*
+### *Arunoday Ghorai (MT23023)*
+### *Shaina Mehta (MT23139)*
 
 ## References and Bibliography:
 
